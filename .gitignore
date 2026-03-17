@@ -1,0 +1,44 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data
+.RData
+.Ruserdata
+
+# Example code in progress
+.Rproj.user/
+
+# Output files
+*.RData
+*.rda
+*.rds
+
+# Logs and reports
+*.log
+*.out
+*.pdf
+*.html
+*.docx
+
+# RStudio project files
+.Rproj.user/
+*.Rproj
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.orig
+
+# Packages
+.Rcheck/
+packrat/
+renv/library/
+renv/staging/
+renv/cache/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
